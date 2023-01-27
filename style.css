@@ -16,7 +16,7 @@ body {
     height: 500px;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
     border-radius: 12px;
-    background:black ;
+    background: rgb(100, 96, 96) ;
     overflow: hidden;
 
 }
@@ -35,5 +35,8 @@ form input{
 
 }
 button {
-    
+     width:60px;
+     height: 52px;
+     font-size: 22px;
+     
 }
