@@ -36,8 +36,11 @@ form input{
 }
 
 .buttons {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+padding: 20px;
 
-    
 }
 button {
      width:60px;
