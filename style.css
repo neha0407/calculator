@@ -55,3 +55,7 @@ button {
 
 
 }
+.btn-yellow {
+    background: rgb(240, 130, 70);
+    color: #fff;
+}
